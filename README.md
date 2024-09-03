@@ -3,9 +3,9 @@
 This repository is a collection of some of my key learnings during my June 2023 - September 2024 apprenticeship at Warner Music Group.
 
 ## Overview of Apprenticeship
-Host Company: Warner Music Group
-Duration: June 2023 - September 2024
-Link to Portfolio Website:
+**Host Company:** Warner Music Group
+**Duration:** June 2023 - September 2024
+**Link to Portfolio Website:**
     
   - Backend Project
   - Deployment Project
