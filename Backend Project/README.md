@@ -1,30 +1,35 @@
 # Music Playlist API - Backend Project
+
 ## Overview
-The Music Playlist API is designed to help users manage and interact with their music playlists efficiently. This API provides a range of functionalities such as creating playlists, adding songs, and retrieving playlists or songs. Inspired by an internal database at Warner Music Group (WMG) used to catalog artists and their songs/albums, this project aims to offer a streamlined solution for playlist management. 
+The Music Playlist API is designed to help users manage and interact with their music playlists efficiently. This API provides a range of functionalities such as creating playlists, adding songs, and retrieving playlists or songs. Inspired by an internal database at Warner Music Group (WMG) used to catalog artists and their songs/albums, this project aims to offer a streamlined solution for playlist management.
 
 The primary problem was the lack of a flexible, easy-to-use tool for managing playlists, which could be customized and expanded upon based on user needs.
 
 ## Tech Stack:
-•	Languages: Python
-•	Frameworks: Flask
-•	Database: PostgreSQL
-•	Tools: Postman, locust
+- **Languages:** Python
+- **Frameworks:** Flask
+- **Database:** PostgreSQL
+- **Tools:** Postman, Locust
 
-## Design and Architecture: 
+## Design and Architecture
 The API is structured to handle various endpoints that manage playlists and songs. This includes creating, deleting, and retrieving playlists and songs, as well as managing relationships between them. Below is a simplified overview of the architecture:
-- Database: PostgreSQL stores all data related to playlists and songs.
-- API Endpoints: Flask handles requests and interacts with the database.
 
-## Challengs:
+- **Database:** PostgreSQL stores all data related to playlists and songs.
+- **API Endpoints:** Flask handles requests and interacts with the database.
+
+## Challenges
 One of the major challenges was optimizing database queries for large datasets. I overcame this by implementing indexing strategies and optimizing the query structure to reduce latency.
 
-## Overview of Completed App: 
+## Overview of Completed App
 The final API successfully allows users to create and manage music playlists. The core functionalities include:
 - Creating, retrieving, updating, and deleting playlists
 - Adding, retrieving, and deleting songs from playlists
 - Fetching random songs and managing relationships between songs and playlists
 
+---
+
 ## Competencies
+
 ### JF 2.4: Can implement effective data management solutions in a project.
 
 **Situation:**  
@@ -66,3 +71,4 @@ The performance of the Music Playlist API was critical, especially in terms of h
 
 **Results:**  
 The API's performance improved significantly, with faster response times and reduced latency, ensuring a smooth user experience even with large datasets.
+
