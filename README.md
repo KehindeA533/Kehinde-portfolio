@@ -8,9 +8,9 @@ This repository is a collection of some of my key learnings during my June 2023 
 **Link to Portfolio Website:**
     
   - [Backend Project](https://github.com/KehindeA533/Kehinde-portfolio/tree/main/Backend%20Project)
-  - [Deployment Project]()
-  - [Front End Project]()
-  - [Inventory App]()
+  - [Deployment Project](https://github.com/KehindeA533/Kehinde-portfolio/tree/main/Deployment%20Project)
+  - [Front End Project](https://github.com/KehindeA533/Kehinde-portfolio/tree/main/Frontend%20Project)
+  - [Inventory App](https://github.com/KehindeA533/Kehinde-portfolio/tree/main/Inventory%20Project)
 
 ## Portfolio Introduction
 Hello there! My name is Kehinde A, and I am a Backend Developer at Warner Music Group (WMG). Over the past 14 months, I have had the incredible opportunity to work on the Data Platform team, where I’ve learned a wide range of skills including writing SQL queries, creating and running tests, conducting performance testing, and monitoring systems using New Relic. This experience has been a significant learning journey for me, especially since my background was initially in frontend development and blockchain technology, with no prior experience in backend development.
